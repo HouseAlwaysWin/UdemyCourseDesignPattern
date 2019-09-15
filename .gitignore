@@ -18,3 +18,8 @@ obj/Debug/netcoreapp3.0/DesignPatternDemo.csproj.FileListAbsolute.txt
 obj/Debug/netcoreapp3.0/DesignPatternDemo.dll
 obj/Debug/netcoreapp3.0/DesignPatternDemo.exe
 obj/Debug/netcoreapp3.0/DesignPatternDemo.pdb
+obj/Debug/netcoreapp3.0/DesignPatternDemo.csproj.CopyComplete
+bin/Debug/netcoreapp3.0/Autofac.dll
+bin/Debug/netcoreapp3.0/capitals.txt
+bin/Debug/netcoreapp3.0/MoreLinq.dll
+bin/Debug/netcoreapp3.0/nunit.framework.dll
